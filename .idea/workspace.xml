@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ac805a-56b2-4368-83a6-479e265807dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/external_functions.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/react-email-editor/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_tracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.google.android.apps.safetyhub_1.1.315330663.release-10005422_minAPI29(arm64-v8a)(nodpi)_apkmirror.com.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-email-editor" beforeDir="false" afterPath="$PROJECT_DIR$/react-email-editor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uuidCSV.js" beforeDir="false" afterPath="$PROJECT_DIR$/uuidCSV.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -84,6 +94,7 @@
       <workItem from="1592220241316" duration="473000" />
       <workItem from="1592227990865" duration="717000" />
       <workItem from="1592575682570" duration="11485000" />
+      <workItem from="1592918996081" duration="4991000" />
     </task>
     <servers />
   </component>

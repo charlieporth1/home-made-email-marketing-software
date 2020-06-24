@@ -4,7 +4,6 @@ const csvP = require("csv-parse");
 const fs = require("fs");
 const {google} = require('googleapis');
 let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-const keyFile = require("./mailer-8b8d34200771.json");
 const menu = require('node-menu');
 const ef = require("./external_functions");
 // const dialog = require('dialog');

@@ -7,6 +7,7 @@
       <change afterPath="$PROJECT_DIR$/sample_tracker.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com.google.android.apps.safetyhub_1.1.315330663.release-10005422_minAPI29(arm64-v8a)(nodpi)_apkmirror.com.apk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -94,7 +95,7 @@
       <workItem from="1592220241316" duration="473000" />
       <workItem from="1592227990865" duration="717000" />
       <workItem from="1592575682570" duration="11485000" />
-      <workItem from="1592918996081" duration="5247000" />
+      <workItem from="1592918996081" duration="6471000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ Scraper Software  https://github.com/charlieporth1/yellow-page_scraper.git
 Your ENV looks like this
 
 ENCODED_PASSWORD=VmxjMVEyTXlUWGh**************************=
-SENDER_EMAIL=r****************
+SENDER_EMAIL=r********@*******.com
 SMTP_SERVER=smtp.*******
 ANALYTICS_TRACKER=UA-62*****-8
 DOWNLOAD_URL_1=https://download-now.************************

@@ -115,17 +115,17 @@ img {
 </style>
 <br> 
 <br> 
-    <a href="` + process.env.DOWNLOAD_URL_1 + `">Click here to download ` + process.env.APP_1 + `</a> 
+<a href="` + process.env.DOWNLOAD_URL_1 + `">Click here to download ` + process.env.APP_1 + `</a> 
 <br>  
 <a href="` + process.env.DOWNLOAD_URL_2 + `">Click here to download ` + process.env.APP_2 + `</a>
 <br> 
 <a href="` + rootLink + `">Click here to learn more about ` + process.env.COMPANY + ` from our website!</a>
 <br> 
-
 ` + trackingHtml + `
-<br><br><p>Thanks,</p>
+<br>
+<br>
+<p>Thanks,</p>
     <p>The ` + process.env.COMPANY + ` team</p>
-
         <img alt="` + process.env.COMPANY + `'s Logo" src="` + process.env.COMPANY_LOGO_URL + `"
     width=100" height="100">`;
     /*<a href="https://studiosoapp.com/"></a>`;*/
@@ -244,7 +244,7 @@ function parseEmails(inputData) {
                 count = 0;
                 if (count === 0) {
                     count++;
-                    emailUserHtml(e, subject.trim(), (message.toString().trim() + "  "), campaign.trim(), data);
+                    emailUserHtml(e, subject.toString().trim(), (message.toString().trim() + "  "), campaign.toString().trim(), data);
                     const t = 100 * ef.getRandomInt(10);
                     console.log("waiting e ", t);
                     ef.wait(t);
